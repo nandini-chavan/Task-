@@ -1,0 +1,6 @@
+.venv
+__pyache__/
+*.py[cod]
+tasks.bd
+.env
+.DS_Store
